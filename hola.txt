@@ -1,7 +1,5 @@
 hola
 como estas
-<<<<<<< HEAD
-que has hecho
-=======
-si me has pensado
->>>>>>> fa9a0c2 (probando selecion de cambios)
+exelentemente
+y tu como has estado
+juicioso como siempre
